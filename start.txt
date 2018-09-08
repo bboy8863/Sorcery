@@ -1,0 +1,20 @@
+Nathan
+Chen
+start
+play 1
+play 3 1 1 
+draw play 3 1 1
+draw
+play 3 1 1
+draw
+play 3 1 1
+draw
+play 3 1 1
+draw
+play 3 1 1
+draw
+play 3 1 1
+draw
+play 3 1 1
+draw
+play 1 1 1

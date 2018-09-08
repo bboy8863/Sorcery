@@ -1,0 +1,5 @@
+#!/bin/bash
+rm *.zip
+zip a5.zip Makefile *.cc *.h deck* default.deck
+marmoset_submit cs246_PROJECT a5-sorcery a5.zip
+

@@ -1,0 +1,7 @@
+Bonus features (sorcery):
+
+- did not use new or delete, used vector and shared_ptr
+
+- nicer user interface (board)
+
+- created "Nomair, the TA Creator" that summons a CS246 Ta each turn
